@@ -7,4 +7,7 @@
 **Deploy:** Vercel, auto-deploys on every push to `main`.
 
 ## Status
-- 2026-10-20: created, pushed to GitHub. Next: import on Vercel.
+- 2026-10-20: created, pushed to GitHub, deployed on Vercel.
+- Vercel dashboard: https://vercel.com/wcpu/first-site (team slug is `wcpu`, GitHub user is `wcpuu`).
+- https://first-site-wcpu.vercel.app asks for a Vercel login (Deployment Protection). 
+- **Live site (public):** https://first-site-nine-theta.vercel.app (checked 2026-10-20, shows "Hello, world 👋").
